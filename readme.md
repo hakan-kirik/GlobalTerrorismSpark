@@ -36,7 +36,7 @@ This project demonstrates the analysis and modeling of the Global Terrorism Data
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/hakan-kirik/GlobalTerrorismSpark
    ```
 2. Install the required Python libraries:
    ```bash
